@@ -9,7 +9,7 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-public class MainActivity extends AppCompatActivity {
+class MainActivity extends AppCompatActivity {
 
     EditText emailInput, passwordInput;
     Button loginButton;
